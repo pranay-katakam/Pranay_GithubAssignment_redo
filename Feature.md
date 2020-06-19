@@ -1,3 +1,3 @@
-# Feature-1
+# Feature-1 (fixed typos)
 
-#Feature-2
+# Feature-2
